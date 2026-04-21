@@ -1,5 +1,3 @@
-# eduverse-ui
-Built a responsive Flutter login and signup UI for an educational app with reusable widgets and clean design.
 # EduVerse Login & Signup UI
 
 A simple Flutter UI project for an educational mobile application called EduVerse.
@@ -26,10 +24,10 @@ A simple Flutter UI project for an educational mobile application called EduVers
 ## Screenshots
 
 ### Login Screen
-![Login Screen](screenshots/login-screen.png)
+![Login Screen](screenshot/login page.png)
 
 ### Signup Screen
-![Signup Screen](screenshots/signup-screen.png)
+![Signup Screen](screenshot/signup page.png)
 
 ## Purpose
 This project was built to practice Flutter UI design, screen navigation, reusable widgets, and responsive layouts.
